@@ -1,0 +1,10 @@
+[37508:39192:0313/171321.958:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[37508:39192:0313/171326.693:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[37508:39192:0313/171346.028:ERROR:device_event_log_impl.cc(196)] [17:13:45.818] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[37508:31972:0313/171346.234:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[37508:31972:0313/171346.245:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[37508:31972:0313/171346.347:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[37508:31972:0313/171346.348:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[39848:13392:0313/171346.498:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1B6B1A38A3F53DF8AC4A8EC14F82C6EC will be ignored
+[37508:39192:0313/172238.675:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[37508:39192:0313/172253.087:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0

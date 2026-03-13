@@ -1,0 +1,17 @@
+[35904:18932:0313/164826.435:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35904:18932:0313/164831.329:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35904:18932:0313/164846.580:ERROR:device_event_log_impl.cc(196)] [16:48:46.422] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[44460:6008:0313/164847.147:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-88248E498E30D735DA3654F1FB6AE8F4 will be ignored
+[35904:268:0313/164849.027:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[35904:268:0313/164850.259:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[35904:268:0313/164850.259:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[35904:268:0313/164852.810:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[35904:18932:0313/165413.027:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[35904:18932:0313/165418.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[35904:18932:0313/165939.099:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[35904:18932:0313/170127.873:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[35904:18932:0313/170133.197:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[35904:268:0313/170223.096:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[35904:268:0313/170223.493:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[35904:268:0313/170223.497:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[35904:268:0313/170223.534:ERROR:cast_crl.cc(443)] CRL - Verification failed.

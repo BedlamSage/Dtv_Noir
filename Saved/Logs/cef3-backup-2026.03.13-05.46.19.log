@@ -1,0 +1,10 @@
+[15552:16452:0313/163407.751:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15552:16452:0313/163413.593:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15552:16452:0313/163438.168:ERROR:device_event_log_impl.cc(196)] [16:34:37.184] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[35872:32836:0313/163438.193:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4149DDF882C01CCACBA48E9F2C1137E2 will be ignored
+[15552:34488:0313/163438.939:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15552:34488:0313/163439.101:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15552:34488:0313/163441.871:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15552:34488:0313/164619.730:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15552:34488:0313/164619.877:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15552:34488:0313/164619.944:ERROR:cast_crl.cc(443)] CRL - Verification failed.
