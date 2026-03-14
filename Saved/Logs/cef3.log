@@ -1,5 +1,10 @@
-[14552:14532:0314/135152.288:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14552:14532:0314/135152.435:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14552:14532:0314/135159.130:ERROR:device_event_log_impl.cc(196)] [13:51:59.119] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[20960:12224:0314/135159.896:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BF5469DEDA985A3685D660B52387C045 will be ignored
-[14552:14532:0314/135834.164:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[15892:22416:0314/140144.052:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15892:22416:0314/140144.186:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15748:17044:0314/140149.827:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1AD89177D860544812E7CD8C31D6633A will be ignored
+[15892:22416:0314/140151.158:ERROR:device_event_log_impl.cc(196)] [14:01:50.840] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[15892:14344:0314/140153.259:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15892:14344:0314/140153.269:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15892:14344:0314/140153.276:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15892:14344:0314/140153.276:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15892:22416:0314/144321.086:ERROR:device_event_log_impl.cc(196)] [14:43:21.059] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[15892:22416:0314/164652.688:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
