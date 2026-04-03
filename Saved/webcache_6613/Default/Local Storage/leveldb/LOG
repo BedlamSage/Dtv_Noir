@@ -1,2 +1,3 @@
-2026/04/03-12:38:53.268 3e44 Creating DB C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/04/03-12:38:53.298 3e44 Reusing MANIFEST C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/03-23:31:44.579 862c Reusing MANIFEST C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/03-23:31:44.590 862c Recovering log #3
+2026/04/03-23:31:44.596 862c Reusing old log C:\Users\Camer\OneDrive\Documents\Unreal Projects\Dtv_Noir\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
