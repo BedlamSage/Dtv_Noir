@@ -1,21 +1,0 @@
-[9116:35164:0404/143202.598:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9116:36636:0404/143202.660:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[9116:35164:0404/143202.710:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9116:35164:0404/143204.509:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[9116:7044:0404/143204.512:WARNING:leveldb_database.cc(141)] Unable to open D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9116:7044:0404/143204.513:WARNING:leveldb_database.cc(141)] Unable to open D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9116:7044:0404/143204.515:WARNING:leveldb_database.cc(141)] Unable to open D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9116:7044:0404/143204.517:WARNING:leveldb_database.cc(141)] Unable to open D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9116:30900:0404/143206.011:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9116:30900:0404/143206.013:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[36896:36900:0404/143206.644:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-06C2ADE07990367FDD66F9FF49BB393A will be ignored
-[9116:9528:0404/143207.378:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[9116:35164:0404/143207.689:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
-[9116:35164:0404/143207.689:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
-[9116:35164:0404/143207.689:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
-[9116:35164:0404/143207.689:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
-[9116:9528:0404/143207.694:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
-[36888:36892:0404/143208.708:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-EBECA06236A8E1CBE21F16A6AA4FBE03 will be ignored
-[9116:9528:0404/143209.116:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[9116:11868:0404/143209.830:WARNING:leveldb_database.cc(141)] Unable to open D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\Meredith\Documents\GitHub\Dtv_Noir\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9116:35164:0404/143257.166:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
