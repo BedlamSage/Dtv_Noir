@@ -1,0 +1,28 @@
+[79680:84392:0413/164632.530:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[79680:84392:0413/164634.136:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[155576:74472:0413/164653.788:ERROR:backend_impl.cc(989)] Critical error found -8
+[155576:74472:0413/164653.811:WARNING:storage_block-inl.h(138)] Failed data load.
+[92900:143708:0413/164654.100:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8F908EF10B430981A5D773F40A2FE17C will be ignored
+[79680:84392:0413/164654.413:ERROR:device_event_log_impl.cc(196)] [16:46:54.399] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[79680:80308:0413/164655.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[79680:84392:0413/164655.163:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[79680:84392:0413/164655.164:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[79680:84392:0413/164655.164:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[79680:84392:0413/164655.164:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[79680:80308:0413/164655.168:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[79680:84392:0413/164833.444:ERROR:device_event_log_impl.cc(196)] [16:48:33.435] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[79680:84392:0413/164834.075:ERROR:device_event_log_impl.cc(196)] [16:48:34.052] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[79680:84392:0413/164840.482:ERROR:device_event_log_impl.cc(196)] [16:48:40.473] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[117224:78560:0413/164904.423:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-28006B2AA610E516198E907F25CF6966 will be ignored
+[79680:84392:0413/165113.524:ERROR:device_event_log_impl.cc(196)] [16:51:13.501] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[79680:84392:0413/165113.752:ERROR:device_event_log_impl.cc(196)] [16:51:13.726] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[79680:80308:0413/181034.994:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:80308:0413/181035.662:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:80308:0413/181035.662:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:80308:0413/221158.445:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:80308:0413/221158.451:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:80308:0413/221158.453:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:80308:0413/233717.656:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:80308:0413/233720.582:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:80308:0413/233721.598:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79680:84392:0413/235148.391:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
